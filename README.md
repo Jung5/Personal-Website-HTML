@@ -1,4 +1,4 @@
-# Pure-html-webpage
+# Personal Website
 
 May 9th, 2022.
 I am rebuilding my portfolio.
